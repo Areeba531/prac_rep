@@ -1,3 +1,4 @@
 This is an overview about my project
 I am developing a web application using MERN.
 My database is MongoDB to store image dataset.
+Will add an extensive README file mentioning everything about the project.
